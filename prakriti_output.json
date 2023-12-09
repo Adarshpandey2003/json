@@ -1,0 +1,838 @@
+{
+    "built_bmi": {
+        "18.50-24.99": [
+            "No specific dosha"
+        ],
+        "\u226525.00": [
+            "Kapha"
+        ],
+        "<18.50": [
+            "Vata"
+        ]
+    },
+    "built_height": {
+        ">88Angula": [
+            "Vata"
+        ],
+        "80-88Angula": [
+            "No specific dosha"
+        ],
+        "<80Angula": [
+            "Vata",
+            "No specific dosha"
+        ]
+    },
+    "appearance_bahukandara": {
+        "Absent": [
+            "No specific dosha"
+        ],
+        "Present": [
+            "Vata"
+        ]
+    },
+    "appearance_sukumargatra1": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta"
+        ]
+    },
+    "appearance_sukumargatra2": {
+        "No": [
+            "No specific dosha",
+            "Kapha"
+        ],
+        "Yes": [
+            "Kapha"
+        ]
+    },
+    "appearance_forehead": {
+        "No specific dosha": [
+            "Forehead is less than or equal to 4 angula",
+            "Forehead is broader than4 angula"
+        ],
+        "Kapha": [
+            "Forehead is broader than4 angula"
+        ]
+    },
+    "skin_color": {
+        "Dhusara": [
+            "Vata"
+        ],
+        "Gaur": [
+            "Kapha"
+        ],
+        "Gaur pitanga": [
+            "Pitta",
+            "Kapha"
+        ],
+        "Krishna": [
+            "Vata"
+        ]
+    },
+    "skin_texture": {
+        "None of the above": [
+            "No specific dosha",
+            "Kapha"
+        ],
+        "Prasanna Snigdhanga": [
+            "Kapha"
+        ],
+        "Rukshanga": [
+            "Vata"
+        ],
+        "Sphutitanga&Rukshanga": [
+            "Vata"
+        ],
+        "Sphutitanga": [
+            "Vata"
+        ]
+    },
+    "skin_moles_pimples": {
+        "Present": [
+            "Pitta"
+        ],
+        "Absent": [
+            "No specific dosha"
+        ]
+    },
+    "skin_wrinkles": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta"
+        ]
+    },
+    "skin_temperature": {
+        "Normal": [
+            "No specific dosha"
+        ],
+        "Alpasantapa": [
+            "Kapha"
+        ],
+        "NaN": [
+            "No specific dosha"
+        ],
+        "Colder(Alpasantapa)": [
+            "Kapha"
+        ]
+    },
+    "skin_ushmanga": {
+        "Normal": [
+            "No specific dosha"
+        ],
+        "NaN": [
+            "No specific dosha"
+        ],
+        "Ushmanga": [
+            "No specific dosha",
+            "Pitta"
+        ],
+        "Warmer(Ushmanga)": [
+            "No specific dosha",
+            "Pitta"
+        ]
+    },
+    "skin_ushnamukha": {
+        "Rarely": [
+            "No specific dosha"
+        ],
+        "Sometimes": [
+            "No specific dosha"
+        ],
+        "Often": [
+            "Pitta"
+        ]
+    },
+    "joint_anavastithasandhi": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Vata"
+        ]
+    },
+    "joint_sashabdasandhigami": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Vata",
+            "No specific dosha"
+        ]
+    },
+    "muscles_laxity": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "No specific dosha",
+            "Pitta"
+        ]
+    },
+    "eye_size": {
+        "Medium": [
+            "No specific dosha"
+        ],
+        "Big eyes": [
+            "Kapha"
+        ],
+        "Small eyes": [
+            "Vata & Pitta"
+        ]
+    },
+    "eye_color": {
+        "Dull white sclera": [
+            "Vata"
+        ],
+        "Reddish canthus of eyes": [
+            "Kapha"
+        ],
+        "Coppery eyes": [
+            "Pitta"
+        ],
+        "Milky white/clearly distinguished sclera": [
+            "Kapha"
+        ],
+        "Reddish canthus of eyes&Milky white/clearly distinguished sclera": [
+            "Kapha"
+        ]
+    },
+    "eye_blinking": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Vata"
+        ]
+    },
+    "eye_lashes": {
+        "Medium eye lashes": [
+            "No specific dosha"
+        ],
+        "Eye lashes less in numbe/Thin eye lashes": [
+            "Pitta",
+            "Kapha"
+        ],
+        "Thick/Dense eye lashes": [
+            "Kapha"
+        ]
+    },
+    "eye_redden": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta"
+        ]
+    },
+    "hair_quality": {
+        "Ruksha&Parusha": [
+            "Vata"
+        ],
+        "Snigdha": [
+            "Kapha"
+        ],
+        "Parusha": [
+            "Vata"
+        ],
+        "Mridu": [
+            "Pitta"
+        ],
+        "Ruksha": [
+            "Vata"
+        ],
+        "Snigdha& Mridu": [
+            "Kapha&Pitta"
+        ],
+        "Ruksha&sphutita kesha": [
+            "Vata"
+        ]
+    },
+    "hair_appearance": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Kapha"
+        ]
+    },
+    "hair_density": {
+        "Medium": [
+            "No specific dosha"
+        ],
+        "Scanty hair": [
+            "Vata&Pitta"
+        ],
+        "Dense hair": [
+            "Kapha"
+        ]
+    },
+    "hair_color": {
+        "Black hair": [
+            "Kapha"
+        ],
+        "Dusky hair": [
+            "Vata",
+            "Kapha"
+        ],
+        "Reddish brown hair": [
+            "Pitta"
+        ]
+    },
+    "hair_baldness": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta"
+        ]
+    },
+    "hair_greying": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta"
+        ]
+    },
+    "teeth_texture": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Vata",
+            "No specific dosha"
+        ]
+    },
+    "teeth_size": {
+        "None of the above": [
+            "No specific dosha",
+            NaN
+        ],
+        "Small teeth": [
+            "Vata"
+        ],
+        "Big teeth": [
+            "Vata"
+        ]
+    },
+    "nail_size": {
+        "None of the above": [
+            "No specific dosha"
+        ],
+        "Long nails": [
+            "Kapha"
+        ],
+        "Small nails/Thin nails": [
+            "Vata"
+        ]
+    },
+    "nail_texture": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Vata"
+        ],
+        "NaN": [
+            "No specific dosha"
+        ]
+    },
+    "nail_color": {
+        "Yes": [
+            "Pitta"
+        ],
+        "No": [
+            "No specific dosha"
+        ]
+    },
+    "gait_gati": {
+        "Yes": [
+            "Vata"
+        ],
+        "No-Consistent/straight/ unswerving way": [
+            "Kapha"
+        ],
+        "No-Complete way i.e. heel strike first followed by toes touching the ground completely": [
+            "Kapha"
+        ],
+        "No-consistent/straight/unswerving way&complete way ": [
+            "Kapha"
+        ],
+        "No-None of the above": [
+            "No specific dosha"
+        ]
+    },
+    "cheshta_tendency": {
+        "Often": [
+            "Vata"
+        ],
+        "Sometimes": [
+            "Kapha"
+        ],
+        "Rarely": [
+            "Kapha"
+        ]
+    },
+    "voice_type": {
+        "Clear voice": [
+            "Kapha"
+        ],
+        "Feeble&Unpleasant voice": [
+            "Vata"
+        ],
+        "Hoarseness of voice": [
+            "Vata"
+        ],
+        "Shattered/broken": [
+            "Vata"
+        ],
+        "Feeble voice": [
+            "Vata"
+        ],
+        "Unclear speech": [
+            "Vata"
+        ],
+        "Clear &Deep/Pleasant voice \n": [
+            "Kapha"
+        ],
+        "Clear &Deep/Pleasant voice ": [
+            "Kapha"
+        ],
+        "Fast/Shaking voice": [
+            "Vata"
+        ],
+        "Clear Voice": [
+            "Kapha"
+        ],
+        "Deep/Pleasant Voice": [
+            "Kapha"
+        ],
+        "clear voice": [
+            "Kapha"
+        ],
+        "Deep/Pleasant voice": [
+            "Kapha"
+        ],
+        "Fast/ Shaking": [
+            "Vata"
+        ],
+        "Stammering": [
+            "Vata"
+        ],
+        "Feeble Voice": [
+            "Vata"
+        ],
+        "Fast /Shaking Voice": [
+            "Vata"
+        ],
+        "Unpleasant Voice": [
+            "Vata"
+        ],
+        "Stammering ": [
+            "Vata"
+        ],
+        "Hoarsensess of voice": [
+            "Vata"
+        ],
+        "Unpleasant & Shattered/broken voice": [
+            "Vata"
+        ],
+        "Feeble voice/ Unpleasant voice": [
+            "Vata"
+        ],
+        "Deep/ Pleasant voice": [
+            "Kapha"
+        ],
+        "Stammering& Fast/ shaking voice": [
+            "Vata"
+        ],
+        "Clear & Deep/ pleasant voice": [
+            "Kapha"
+        ],
+        "Unpleasant voice": [
+            "Vata"
+        ],
+        "Shattered/ broken": [
+            "Vata"
+        ],
+        "Unpleasant Voice & Hoarseness of voice": [
+            "Vata"
+        ],
+        "Clear & Deep/Pleasant voice": [
+            "Kapha"
+        ],
+        "Feeble & Unpleasant voice ": [
+            "Vata"
+        ],
+        "Unpleasant": [
+            "Vata"
+        ],
+        "Fast/shaking voice": [
+            "Vata"
+        ],
+        "Shattered/ broken/Fast/shaking voice": [
+            "Vata"
+        ],
+        "Shattered/ broken voice": [
+            "Vata"
+        ],
+        "Shattered/Broken Voice": [
+            "Vata"
+        ],
+        "Clear and deep/pleasant voice": [
+            "Kapha"
+        ],
+        "Horseness of voice": [
+            "Vata"
+        ],
+        "Fast/Shaking Voice": [
+            "Vata"
+        ],
+        "Clear Voice ": [
+            "Kapha"
+        ],
+        "Shattered/Broken Vooice ": [
+            "Vata"
+        ],
+        "Deep/Pleasant Voice ": [
+            "Kapha"
+        ],
+        "Feeble Voice ": [
+            "Vata"
+        ],
+        "Clear&Deep/Pleasant Voice ": [
+            "Kapha"
+        ],
+        "Unpleasant voice ": [
+            "Vata"
+        ],
+        "Deep/Pleasant": [
+            "Kapha"
+        ],
+        "Hoarseness of Voice": [
+            "Vata"
+        ]
+    },
+    "appetite_frequency": {
+        "3 main meals and 2 or more refreshments": [
+            "Pitta"
+        ],
+        "None of the above": [
+            "No specific dosha"
+        ],
+        "2 main meals and 3 or more refreshments": [
+            "Pitta"
+        ],
+        "NaN": [
+            NaN
+        ]
+    },
+    "appetite_quantity": {
+        "Average": [
+            "No specific dosha"
+        ],
+        "Less than average": [
+            "Kapha"
+        ],
+        "More than average": [
+            "Vata&Pitta"
+        ]
+    },
+    "appetite_tolerance": {
+        "Can tolerate": [
+            "Kapha"
+        ],
+        "Cannot tolerate": [
+            "Pitta",
+            "Kapha"
+        ],
+        "It varies": [
+            "No specific dosha",
+            "Pitta"
+        ]
+    },
+    "appetite_habit": {
+        "Before your friends /family members": [
+            "Vata"
+        ],
+        "At par/with your friends/family members": [
+            "No specific dosha"
+        ],
+        "Last": [
+            "Kapha"
+        ]
+    },
+    "stool1": {
+        "Adequate (\u092f\u0925\u094b\u091a\u093f\u0924) / Bulky (\u091c\u094d\u092f\u093e\u0926\u093e)": [
+            "Pitta"
+        ],
+        "Less": [
+            "No specific dosha"
+        ]
+    },
+    "stool2": {
+        "Often": [
+            "Pitta"
+        ],
+        "Rarely": [
+            "No Specific dosha"
+        ],
+        "Sometimes": [
+            "No Specific dosha"
+        ]
+    },
+    "sweat_tendency": {
+        "Profuse": [
+            "Pitta"
+        ],
+        "Medium": [
+            "No specific dosha"
+        ],
+        "Scanty": [
+            "Kapha"
+        ]
+    },
+    "sweat_odour1": {
+        "Mild": [
+            "No specific dosha"
+        ],
+        "Strong": [
+            "Pitta"
+        ]
+    },
+    "sweat_odour2": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta"
+        ]
+    },
+    "sleep_noise": {
+        "Rarely": [
+            "Vata",
+            "No specific dosha"
+        ],
+        "Often": [
+            "Vata"
+        ],
+        "Sometimes": [
+            "No specific dosha"
+        ]
+    },
+    "sleep_hours": {
+        "6-8 hours": [
+            "No specific dosha"
+        ],
+        "More than 8 hours": [
+            "No specific dosha"
+        ],
+        "Less than 6 hours": [
+            "Vata"
+        ]
+    },
+    "sleep_tendency": {
+        "Often": [
+            "Kapha"
+        ],
+        "Rarely": [
+            "no specific dosha"
+        ],
+        "Sometimes": [
+            "no specific dosha"
+        ]
+    },
+    "dream_nature": {
+        "Walking / Flying in the Sky / Mountains / Dried water bodies / Trees etc": [
+            "Vata"
+        ],
+        "None of the above": [
+            "No specific dosha"
+        ],
+        "Fire/Lightening/Gold/Red flowers/Falling of meteors etc": [
+            "Pitta"
+        ],
+        "Water bodies/Lotus/Water birds like swan": [
+            "Kapha"
+        ]
+    },
+    "indecisiveness": {
+        "Often": [
+            "Vata"
+        ],
+        "Sometimes": [
+            "No specific dosha"
+        ],
+        "Rarely": [
+            "No specific dosha"
+        ]
+    },
+    "comprehension": {
+        "Yes": [
+            "Vata"
+        ],
+        "No": [
+            "Kapha"
+        ],
+        "NaN": [
+            NaN
+        ]
+    },
+    "memory": {
+        "Yes": [
+            "Kapha"
+        ],
+        "No": [
+            "Vata"
+        ]
+    },
+    "friendship_nature": {
+        "Rarely": [
+            "Vata"
+        ],
+        "Often": [
+            "Kapha"
+        ],
+        "Sometimes": [
+            "No specific dosha"
+        ]
+    },
+    "intelligence_nipunmati": {
+        "Yes": [
+            "Pitta"
+        ],
+        "No": [
+            "No specific dosha"
+        ]
+    },
+    "intelligence_medhavi": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta"
+        ]
+    },
+    "intelligence_buddhiyukta": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "Pitta & Kapha"
+        ]
+    },
+    "talkative_speech": {
+        "Yes": [
+            "Vata"
+        ],
+        "No": [
+            "No specific dosha"
+        ]
+    },
+    "speech_limit": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes": [
+            "No specific dosha",
+            "Kapha"
+        ]
+    },
+    "profound_speech": {
+        "Rarely": [
+            "No specific dosha"
+        ],
+        "Often": [
+            "Pitta"
+        ],
+        "Sometimes": [
+            "No specific dosha"
+        ]
+    },
+    "dominant_speech": {
+        "Often": [
+            "Pitta"
+        ],
+        "Sometimes": [
+            "No specific dosha"
+        ],
+        "Rarely": [
+            "No specific dosha"
+        ]
+    },
+    "brave_valour1": {
+        "Sometimes": [
+            "No specific dosha"
+        ],
+        "Rarely": [
+            "No specific dosha"
+        ],
+        "Often": [
+            "Pitta"
+        ]
+    },
+    "brave_valour2": {
+        "Face bravely till the goal is achieved ": [
+            "Pitta"
+        ],
+        "Get panic / nervous": [
+            "No specific dosha"
+        ],
+        "Try to run away": [
+            "No specific dosha"
+        ]
+    },
+    "food_likings": {
+        "Hot food items and drinks over Cold food items and drinks": [
+            "Vata",
+            "No specific dosha"
+        ],
+        "Cold food items and drinks over Hot food items and drinks ": [
+            "Pitta"
+        ],
+        "None of the above": [
+            "No specific dosha"
+        ]
+    },
+    "enmity_strong": {
+        "No": [
+            "No specific dosha"
+        ],
+        "Yes-You never wanted to patch up": [
+            "No specific dosha",
+            "Kapha"
+        ],
+        "Yes-You wanted to patch up but you were hesitant": [
+            "No specific dosha"
+        ],
+        "Yes-Your friend never tried to patch up": [
+            "No specific dosha"
+        ],
+        "Yes-Your friend tried but you didn\u2019t accept": [
+            "No specific dosha",
+            "Kapha"
+        ]
+    },
+    "humble_type": {
+        "Rarely": [
+            "No specific dosha"
+        ],
+        "Often": [
+            "Kapha"
+        ],
+        "Sometimes-Soft and submissive": [
+            "No specific dosha",
+            "Kapha"
+        ],
+        "Sometimes-Aggressive": [
+            "No specific dosha"
+        ],
+        "Sometimes-Rude": [
+            "No specific dosha"
+        ]
+    }
+}
